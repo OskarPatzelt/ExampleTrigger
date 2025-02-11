@@ -1,0 +1,8 @@
+{
+    "sw-flow": {
+      "triggers": {
+        "example": "Beispiel",
+        "event": "Event"
+      }
+    }
+  }
